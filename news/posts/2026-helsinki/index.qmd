@@ -1,0 +1,8 @@
+---
+title: "University of Helsinki visiting fellowship"
+date: 2026-09-14
+description: "Derek Van Berkel is spending part of 2026 at the University of Helsinki through the North America Visiting Fellowship."
+categories: [People, Collaboration]
+---
+
+Derek Van Berkel is a 2026 North America Visiting Fellow at the University of Helsinki, hosted by Prof. Enrico Di Minin. The visit supports collaboration around geospatial data science, artificial intelligence, conservation, and human–environment research.

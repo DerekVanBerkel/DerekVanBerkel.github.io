@@ -25,10 +25,17 @@ body { color: var(--ink); background: var(--paper); font-size: 1.03rem; }
 .card-grid { display:grid; grid-template-columns:repeat(12,1fr); gap:1rem; margin:1.3rem 0 2rem; }
 .topic-card, .project-card, .person-card, .stat-card { border:1px solid var(--line); border-radius:18px; background:white; padding:1.25rem; box-shadow:0 8px 24px rgba(0,39,76,.045); }
 .topic-card { grid-column:span 6; min-height:210px; }
-.project-card { grid-column:span 6; }
+.project-card { grid-column:span 6; overflow:hidden; padding:0; transition:transform .18s ease, box-shadow .18s ease; }
+.project-card:hover { transform:translateY(-3px); box-shadow:0 14px 34px rgba(0,39,76,.10); }
+.project-image { width:100%; aspect-ratio:16/8.6; object-fit:cover; display:block; border-bottom:1px solid var(--line); }
+.project-card-body { padding:1.25rem 1.35rem 1.35rem; }
+.project-card-body h3 { margin-top:0; }
+.project-card a { font-weight:700; text-decoration:none; }
 .person-card { grid-column:span 4; overflow:hidden; }
 .person-photo { width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center; border-radius:13px; display:block; margin:0 0 1rem; background:var(--soft); }
 .person-photo-placeholder { display:flex; align-items:center; justify-content:center; background:linear-gradient(135deg,#00274c,#0e5f76); color:white; font-size:2.4rem; font-weight:800; letter-spacing:.06em; }
+.director-card { display:grid; grid-template-columns:minmax(180px,260px) 1fr; gap:1.6rem; align-items:center; }
+.director-card .person-photo { margin:0; }
 .stat-card { grid-column:span 3; text-align:center; background:var(--soft); }
 .card-grid h3 { margin-top:.1rem; }
 .card-grid p { color:var(--muted); }
@@ -41,4 +48,5 @@ body { color: var(--ink); background: var(--paper); font-size: 1.03rem; }
 .quarto-listing .listing-description { color:var(--muted); }
 .pub-note { color:var(--muted); font-size:.92rem; }
 @media (max-width: 900px) { .topic-card, .project-card { grid-column:span 12; } .person-card { grid-column:span 6; } .stat-card { grid-column:span 6; } }
+@media (max-width: 650px) { .director-card { grid-template-columns:1fr; } .director-card .person-photo { max-width:260px; } }
 @media (max-width: 560px) { .person-card, .stat-card { grid-column:span 12; } .hero { border-radius:0 0 18px 18px; } }

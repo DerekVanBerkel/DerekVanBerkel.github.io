@@ -1,9 +1,7 @@
 ---
 title: "Publications"
-description: "Selected publications from the Van Berkel Lab"
+description: "Selected publications and recent research outputs."
 ---
-
-# Publications
 
 Research spans geospatial data science, climate adaptation and migration, participatory GIS, conservation, environmental perception, urban change, and AI-enabled spatial analysis.
 

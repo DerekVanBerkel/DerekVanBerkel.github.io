@@ -1,0 +1,26 @@
+---
+title: "CLARS"
+description: "Climate migration and urban change across lake regions."
+---
+
+![](https://raw.githubusercontent.com/DerekVanBerkel/CLARS-Climate-Migration-Tutorial/main/docs/images/Lake_Victoria_sunset_in_Mwanza_Tanzania.jpg){fig-alt="Lake Victoria at sunset in Mwanza, Tanzania" width="100%"}
+
+<div class="page-intro">CLARS is an international research program examining climate-related migration, urban change, and the movement of climate knowledge across the Lake Victoria Basin and the North American Great Lakes.</div>
+
+## Research focus
+
+The Van Berkel Lab leads work on **urban migration modeling** and contributes to **climate knowledge exchange**. The research asks how climate-related mobility may reshape cities, land-use patterns, infrastructure demands, and environmental conditions, while also examining how decision-relevant climate knowledge is produced and used.
+
+## Study regions
+
+Work spans cities in the **Lake Victoria Basin** and the **North American Great Lakes**, creating a comparative framework for studying migration, urban change, and adaptation across very different institutional and environmental settings.
+
+## Methods
+
+Spatial modeling · land-change simulation · participatory GIS · scenario analysis · geovisualization · climate knowledge co-production
+
+## Links
+
+[CLARS project website](https://www.clarsproject.com/) · [Climate Knowledge Exchange / WP7](https://www.clarsproject.com/wp7)
+
+[← Back to projects](/projects.html)

@@ -26,7 +26,9 @@ body { color: var(--ink); background: var(--paper); font-size: 1.03rem; }
 .topic-card, .project-card, .person-card, .stat-card { border:1px solid var(--line); border-radius:18px; background:white; padding:1.25rem; box-shadow:0 8px 24px rgba(0,39,76,.045); }
 .topic-card { grid-column:span 6; min-height:210px; }
 .project-card { grid-column:span 6; }
-.person-card { grid-column:span 4; }
+.person-card { grid-column:span 4; overflow:hidden; }
+.person-photo { width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center; border-radius:13px; display:block; margin:0 0 1rem; background:var(--soft); }
+.person-photo-placeholder { display:flex; align-items:center; justify-content:center; background:linear-gradient(135deg,#00274c,#0e5f76); color:white; font-size:2.4rem; font-weight:800; letter-spacing:.06em; }
 .stat-card { grid-column:span 3; text-align:center; background:var(--soft); }
 .card-grid h3 { margin-top:.1rem; }
 .card-grid p { color:var(--muted); }

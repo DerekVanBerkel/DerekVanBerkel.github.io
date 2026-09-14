@@ -7,7 +7,7 @@ website:
   description: "Geospatial data science, climate adaptation, participatory mapping, and environmental decision support at the University of Michigan."
   site-url: "https://derekvanberkel.github.io/"
   navbar:
-    background: "#00274C"
+    background: "#173F35"
     foreground: "#FFFFFF"
     left:
       - text: Research
@@ -47,7 +47,7 @@ format:
     link-external-newwindow: true
     include-in-header:
       text: |
-        <meta name="theme-color" content="#00274C">
+        <meta name="theme-color" content="#173F35">
 
 execute:
   freeze: auto

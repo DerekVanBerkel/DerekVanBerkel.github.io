@@ -15,13 +15,13 @@ description: "Researchers and collaborators working across our projects."
 ## Graduate researchers
 <div class="card-grid">
 <div class="person-card"><img class="person-photo" src="https://www.pivot-model.com/static/img/avatars/xiaohao.jpg" alt="Xiaohao Yang"><h3>Xiaohao Yang</h3><div class="person-role">PhD Student · Geospatial & Computer Vision</div><p><strong>Research:</strong> GeoAI, computer vision, street-level imagery, urban analytics, and landscape perception.</p></div>
+<div class="person-card"><img class="person-photo" src="https://www.pivot-model.com/static/img/avatars/jiayuanj.jpg" alt="Jiayuan Jiang"><h3>Jiayuan Jiang</h3><div class="person-role">Graduate Student · Web Infrastructure & Development</div><p><strong>Research:</strong> geospatial applications, web development, and data infrastructure for participatory decision-support tools.</p></div>
+<div class="person-card"><img class="person-photo" src="https://media.licdn.com/dms/image/v2/C4E03AQEtoKnw-Bps-A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645946443104?e=2147483647&v=beta&t=4GDA72pnB-9z3wchA_mzrk7nh79kQkJ879Hn2-BUihg" alt="Myel Zuberi"><h3>Myel Zuberi</h3><div class="person-role">Graduate Student</div><p><strong>Research:</strong> data science and computational research.</p></div>
 </div>
 
 ## Research staff & collaborators
 <div class="card-grid">
 <div class="person-card"><img class="person-photo" src="https://www.pivot-model.com/static/img/avatars/nilay.jpg" alt="Nilay Gautam"><h3>Nilay Gautam</h3><div class="person-role">Data Science</div><p><strong>Research:</strong> machine learning, computational environmental research, and PIVOT.</p></div>
-<div class="person-card"><img class="person-photo" src="https://www.pivot-model.com/static/img/avatars/jiayuanj.jpg" alt="Jiayuan Jiang"><h3>Jiayuan Jiang</h3><div class="person-role">Web Infrastructure & Development</div><p><strong>Research support:</strong> geospatial applications, web development, and data infrastructure for participatory decision-support tools.</p></div>
-<div class="person-card"><img class="person-photo" src="https://media.licdn.com/dms/image/v2/C4E03AQEtoKnw-Bps-A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645946443104?e=2147483647&v=beta&t=4GDA72pnB-9z3wchA_mzrk7nh79kQkJ879Hn2-BUihg" alt="Myel Zuberi"><h3>Myel Zuberi</h3><div class="person-role">Research Collaborator</div><p><strong>Research:</strong> data science and computational research collaboration.</p></div>
 </div>
 
 ## Recent PhD graduates

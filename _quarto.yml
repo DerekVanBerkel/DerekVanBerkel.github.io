@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Van Berkel Lab"
+  description: "Geospatial data science, climate adaptation, participatory mapping, and environmental decision support at the University of Michigan."
+  site-url: "https://DerekVanBerkel.github.io/"
+  navbar:
+    background: "#00274C"
+    foreground: "#FFFFFF"
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: People
+        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: News
+        href: news/index.qmd
+      - text: Join
+        href: join.qmd
+    right:
+      - icon: github
+        href: "https://github.com/DerekVanBerkel/DerekVanBerkel.github.io"
+        aria-label: GitHub
+      - icon: envelope
+        href: "mailto:dbvanber@umich.edu"
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Van Berkel Lab · University of Michigan School for Environment and Sustainability"
+    right: "Built with [Quarto](https://quarto.org/) and GitHub Pages"
+  open-graph: true
+  search: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles/site.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="theme-color" content="#00274C">
+
+execute:
+  freeze: auto

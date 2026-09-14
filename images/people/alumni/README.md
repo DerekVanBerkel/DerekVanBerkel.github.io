@@ -1,1 +1,0 @@
-Alumni portraits used on the People page.

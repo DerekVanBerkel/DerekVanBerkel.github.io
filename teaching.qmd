@@ -1,9 +1,8 @@
 ---
 title: "Teaching"
-description: "Courses and teaching"
+description: "Courses in geospatial data science, visualization, and sustainability communication."
 ---
 
-# Teaching
 Teaching in the Van Berkel Lab emphasizes practical geospatial skills, critical interpretation of data, visual communication, and reproducible workflows.
 
 ## EAS 548 / 648 — Geovisualization

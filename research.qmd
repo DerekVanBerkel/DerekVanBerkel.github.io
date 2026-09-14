@@ -1,9 +1,7 @@
 ---
 title: "Research"
-description: "Research themes in the Van Berkel Lab"
+description: "Geospatial approaches to climate, cities, landscapes, and environmental decision-making."
 ---
-
-# Research
 
 The Van Berkel Lab develops and applies geospatial methods to understand how communities and landscapes change under environmental and societal pressure. A recurring goal is to move beyond analysis alone: we design methods, visualizations, and decision-support systems that make complex spatial information usable in real-world choices.
 

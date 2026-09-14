@@ -3,20 +3,32 @@ title: "Publications"
 description: "Selected publications and recent research outputs."
 ---
 
-Research spans geospatial data science, climate adaptation and migration, participatory GIS, conservation, environmental perception, urban change, and AI-enabled spatial analysis.
+<div class="page-intro">Research spans geospatial data science, climate adaptation and migration, participatory GIS, conservation, environmental perception, urban change, and AI-enabled spatial analysis.</div>
 
 ## Selected recent work
 
-- **Van Berkel, D. et al. (2026).** *YouTube content on wildlife engages audiences but rarely drives meaningful conservation action.* Communications Sustainability 1, 26.
-- **Estabrook, T., Van Berkel, D., Jorns, J., & Lemos, M.C. (2026).** *Exploring climate-induced migration impacts on urban growth.* Computers, Environment and Urban Systems 123, 102368.
-- **Song, Y., Millard-Ball, A., Fox, N., Van Berkel, D., Agrawal, A., & Zhu, K. (2026).** *Political ideology and scientific communication shape human perceptions of pollen seasons.* PNAS Nexus 5(1), pgaf386.
-- **Yang, X., Tian, A., Van Berkel, D., Qiang, X., & Lindquist, M. (2026).** *Can Urban Blight Be Accessed with Vision-language Models: A Case Study in Detroit.* arXiv:2608.01753.
-- **Li, Z., Van Berkel, D., Hasell, A., Schoenebeck, G., Ryan, J.B., & Tomkins, S. (2026).** *AnnotateThis: Analyzing a human-LLM system for annotating social media data with the concept of climate change mitigation pessimism.* arXiv:2606.10210.
-- **Lemos, M.C. et al. (2025).** *Scaling up actionable climate knowledge.* Proceedings of the National Academy of Sciences 122(50), e2515771122.
-- **Van Berkel, D. et al. (2023).** *PPGISr: A participatory GIS package for R.* SoftwareX 22, 101389.
-- **Ghermandi, A. et al. (2023).** *Social media data for environmental sustainability: A critical review of opportunities, threats, and ethical use.* One Earth 6(3), 236–250.
-- **Van Berkel, D. et al. (2022).** *Planning for climate migration in Great Lake legacy cities.* Earth's Future 10(10), e2022EF002942.
+<div class="publication-list">
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">YouTube content on wildlife engages audiences but rarely drives meaningful conservation action</div><div class="publication-authors">Van Berkel, D. et al.</div><div class="publication-venue"><em>Communications Sustainability</em> 1, 26.</div></div></div>
+
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">Exploring climate-induced migration impacts on urban growth</div><div class="publication-authors">Estabrook, T., Van Berkel, D., Jorns, J., & Lemos, M.C.</div><div class="publication-venue"><em>Computers, Environment and Urban Systems</em> 123, 102368.</div></div></div>
+
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">Political ideology and scientific communication shape human perceptions of pollen seasons</div><div class="publication-authors">Song, Y., Millard-Ball, A., Fox, N., Van Berkel, D., Agrawal, A., & Zhu, K.</div><div class="publication-venue"><em>PNAS Nexus</em> 5(1), pgaf386.</div><div class="publication-links"><a href="https://doi.org/10.1093/pnasnexus/pgaf386">DOI</a></div></div></div>
+
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">Can Urban Blight Be Accessed with Vision-language Models: A Case Study in Detroit</div><div class="publication-authors">Yang, X., Tian, A., Van Berkel, D., Qiang, X., & Lindquist, M.</div><div class="publication-venue">arXiv:2608.01753.</div><div class="publication-links"><a href="https://arxiv.org/abs/2608.01753">Preprint</a></div></div></div>
+
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">AnnotateThis: Analyzing a human-LLM system for annotating social media data with the concept of climate change mitigation pessimism</div><div class="publication-authors">Li, Z., Van Berkel, D., Hasell, A., Schoenebeck, G., Ryan, J.B., & Tomkins, S.</div><div class="publication-venue">arXiv:2606.10210.</div><div class="publication-links"><a href="https://arxiv.org/abs/2606.10210">Preprint</a></div></div></div>
+
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">Large language models unlock the ecology of species interactions</div><div class="publication-authors">Zou, H.-X. et al., including Van Berkel, D.B.</div><div class="publication-venue">bioRxiv 2026.02.06.704115.</div><div class="publication-links"><a href="https://doi.org/10.64898/2026.02.06.704115">DOI</a></div></div></div>
+
+<div class="publication-item"><div class="publication-year">2025</div><div><div class="publication-title">Scaling up actionable climate knowledge</div><div class="publication-authors">Lemos, M.C. et al.</div><div class="publication-venue"><em>Proceedings of the National Academy of Sciences</em> 122(50), e2515771122.</div></div></div>
+
+<div class="publication-item"><div class="publication-year">2023</div><div><div class="publication-title">PPGISr: A participatory GIS package for R</div><div class="publication-authors">Van Berkel, D. et al.</div><div class="publication-venue"><em>SoftwareX</em> 22, 101389.</div></div></div>
+
+<div class="publication-item"><div class="publication-year">2023</div><div><div class="publication-title">Social media data for environmental sustainability: A critical review of opportunities, threats, and ethical use</div><div class="publication-authors">Ghermandi, A. et al.</div><div class="publication-venue"><em>One Earth</em> 6(3), 236–250.</div></div></div>
+
+<div class="publication-item"><div class="publication-year">2022</div><div><div class="publication-title">Planning for climate migration in Great Lake legacy cities</div><div class="publication-authors">Van Berkel, D. et al.</div><div class="publication-venue"><em>Earth's Future</em> 10(10), e2022EF002942.</div></div></div>
+</div>
 
 ## Full publication record
 
-For the complete publication record, see Derek Van Berkel's Google Scholar profile or academic CV. The site is structured so a BibTeX bibliography can be connected here as the single publication source in a subsequent update.
+For the complete publication record, see the [academic CV](/files/Derek_Van_Berkel_CV.pdf). The selected list above emphasizes recent and representative work; links to data, code, preprints, and DOIs are included where they are currently available.

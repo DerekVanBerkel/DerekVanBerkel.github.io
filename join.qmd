@@ -1,0 +1,18 @@
+---
+title: "Join the Lab"
+description: "Prospective students and collaborators"
+---
+
+# Join the Lab
+The Van Berkel Lab works with students and collaborators interested in **geospatial data science, climate adaptation, participatory GIS, spatial AI, urban change, conservation, and environmental communication**.
+
+## Prospective master's students
+Master's students with strong GIS, programming, visualization, remote sensing, or spatial-analysis interests are welcome to get in touch. A concise message describing your interests, relevant skills, and the project areas that interest you is most useful.
+
+## PhD inquiries
+PhD advising depends on project fit and available funding. Please review the current research and projects pages before contacting the lab, and include a CV and a short description of the research questions you hope to pursue.
+
+## Collaborators & community partners
+Many of our projects are co-developed with public agencies, community organizations, climate practitioners, and researchers from other disciplines. We welcome conversations around applied spatial decision-support problems where collaboration can add real value.
+
+**Contact:** [dbvanber@umich.edu](mailto:dbvanber@umich.edu)

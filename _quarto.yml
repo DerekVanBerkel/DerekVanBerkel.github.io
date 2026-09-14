@@ -11,19 +11,19 @@ website:
     foreground: "#FFFFFF"
     left:
       - text: Research
-        href: research.qmd
+        href: /research.html
       - text: Projects
-        href: projects.qmd
+        href: /projects.html
       - text: People
-        href: people.qmd
+        href: /people.html
       - text: Publications
-        href: publications.qmd
+        href: /publications.html
       - text: Teaching
-        href: teaching.qmd
+        href: /teaching.html
       - text: News
-        href: news/index.qmd
+        href: /news/index.html
       - text: Join
-        href: join.qmd
+        href: /join.html
     right:
       - icon: github
         href: "https://github.com/DerekVanBerkel/derekvanberkel.github.io"

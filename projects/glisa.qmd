@@ -1,0 +1,24 @@
+---
+title: "GLISA"
+description: "Great Lakes climate adaptation, actionable knowledge, and decision support."
+---
+
+<div class="page-intro">GLISA connects climate science with communities and decision-makers across the Great Lakes, with a focus on producing usable climate information and supporting adaptation planning.</div>
+
+## Research focus
+
+Current work emphasizes **actionable climate knowledge**, **flood resilience**, **climate migration**, and decision-support approaches that connect regional climate science with local priorities.
+
+## How the lab contributes
+
+The Van Berkel Lab contributes geospatial analysis, participatory mapping, scenario planning, visualization, and research on how climate knowledge is translated into planning and policy contexts.
+
+## Methods
+
+Geospatial data science · participatory GIS · scenario planning · visualization · climate services research · co-production
+
+## Link
+
+[GLISA website](https://glisa.umich.edu/)
+
+[← Back to projects](/projects.html)

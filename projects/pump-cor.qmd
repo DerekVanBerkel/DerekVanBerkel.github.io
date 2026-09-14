@@ -1,0 +1,26 @@
+---
+title: "CHIRRP / PUMP-COR"
+description: "Community-centered planning for compound flood resilience."
+---
+
+![](https://raw.githubusercontent.com/GLISA-umich/PUMP-COR/main/images/milwaukee.jpg){fig-alt="Milwaukee and Lake Michigan" width="100%"}
+
+<div class="page-intro">CHIRRP / PUMP-COR integrates climate and hydrologic modeling with participatory GIS and scenario planning to support community-centered flood resilience in Great Lakes communities.</div>
+
+## Research focus
+
+The project examines how compound flood risk can be translated into information that communities can use. Rather than treating hydrologic models and local knowledge as separate inputs, the work brings them together through participatory mapping and scenario-based decision support.
+
+## Current places
+
+Current work includes **Benton Harbor** and **Milwaukee**, with related Great Lakes flood-resilience research informing the broader program.
+
+## Methods
+
+Climate and hydrologic modeling · participatory GIS · community engagement · scenario planning · remote sensing · geovisualization
+
+## Links
+
+[PUMP-COR repository](https://github.com/GLISA-umich/PUMP-COR) · [Related GLISA compound-flood resilience work](https://glisa.umich.edu/project/coast-to-coast-using-scenario-planning-to-build-resilience-to-compound-flooding-in-the-southeast-and-great-lakes-regions/)
+
+[← Back to projects](/projects.html)

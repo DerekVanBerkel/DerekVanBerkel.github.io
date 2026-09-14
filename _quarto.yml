@@ -5,7 +5,7 @@ project:
 website:
   title: "Van Berkel Lab"
   description: "Geospatial data science, climate adaptation, participatory mapping, and environmental decision support at the University of Michigan."
-  site-url: "https://DerekVanBerkel.github.io/"
+  site-url: "https://derekvanberkel.github.io/"
   navbar:
     background: "#00274C"
     foreground: "#FFFFFF"
@@ -26,7 +26,7 @@ website:
         href: join.qmd
     right:
       - icon: github
-        href: "https://github.com/DerekVanBerkel/DerekVanBerkel.github.io"
+        href: "https://github.com/DerekVanBerkel/derekvanberkel.github.io"
         aria-label: GitHub
       - icon: envelope
         href: "mailto:dbvanber@umich.edu"

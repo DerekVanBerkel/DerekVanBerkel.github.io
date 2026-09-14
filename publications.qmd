@@ -1,0 +1,24 @@
+---
+title: "Publications"
+description: "Selected publications from the Van Berkel Lab"
+---
+
+# Publications
+
+Research spans geospatial data science, climate adaptation and migration, participatory GIS, conservation, environmental perception, urban change, and AI-enabled spatial analysis.
+
+## Selected recent work
+
+- **Van Berkel, D. et al. (2026).** *YouTube content on wildlife engages audiences but rarely drives meaningful conservation action.* Communications Sustainability 1, 26.
+- **Estabrook, T., Van Berkel, D., Jorns, J., & Lemos, M.C. (2026).** *Exploring climate-induced migration impacts on urban growth.* Computers, Environment and Urban Systems 123, 102368.
+- **Song, Y., Millard-Ball, A., Fox, N., Van Berkel, D., Agrawal, A., & Zhu, K. (2026).** *Political ideology and scientific communication shape human perceptions of pollen seasons.* PNAS Nexus 5(1), pgaf386.
+- **Yang, X., Tian, A., Van Berkel, D., Qiang, X., & Lindquist, M. (2026).** *Can Urban Blight Be Accessed with Vision-language Models: A Case Study in Detroit.* arXiv:2608.01753.
+- **Li, Z., Van Berkel, D., Hasell, A., Schoenebeck, G., Ryan, J.B., & Tomkins, S. (2026).** *AnnotateThis: Analyzing a human-LLM system for annotating social media data with the concept of climate change mitigation pessimism.* arXiv:2606.10210.
+- **Lemos, M.C. et al. (2025).** *Scaling up actionable climate knowledge.* Proceedings of the National Academy of Sciences 122(50), e2515771122.
+- **Van Berkel, D. et al. (2023).** *PPGISr: A participatory GIS package for R.* SoftwareX 22, 101389.
+- **Ghermandi, A. et al. (2023).** *Social media data for environmental sustainability: A critical review of opportunities, threats, and ethical use.* One Earth 6(3), 236–250.
+- **Van Berkel, D. et al. (2022).** *Planning for climate migration in Great Lake legacy cities.* Earth's Future 10(10), e2022EF002942.
+
+## Full publication record
+
+For the complete publication record, see Derek Van Berkel's Google Scholar profile or academic CV. The site is structured so a BibTeX bibliography can be connected here as the single publication source in a subsequent update.

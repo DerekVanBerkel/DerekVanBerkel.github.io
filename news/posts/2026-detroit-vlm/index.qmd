@@ -1,0 +1,10 @@
+---
+title: "New preprint examines vision-language models for urban blight assessment"
+date: 2026-09-14
+description: "Detroit-focused work tests whether vision-language models can extract useful information on residential property conditions."
+categories: [Publication, Detroit, AI]
+---
+
+A new preprint, **“Can Urban Blight Be Accessed with Vision-language Models: A Case Study in Detroit,”** examines the use of vision-language models to infer residential property conditions from street-level imagery.
+
+The work contributes to a broader collaboration on scalable, transparent urban analytics and decision support in Detroit.

@@ -3,22 +3,38 @@ title: "Research"
 description: "Geospatial approaches to climate, cities, landscapes, and environmental decision-making."
 ---
 
-The Van Berkel Lab develops and applies geospatial methods to understand how communities and landscapes change under environmental and societal pressure. A recurring goal is to move beyond analysis alone: we design methods, visualizations, and decision-support systems that make complex spatial information usable in real-world choices.
+The Van Berkel Lab develops geospatial theory, methods, and decision-support approaches to understand how communities and landscapes change under environmental and societal pressure. Across projects, we connect spatial analysis with substantive questions about climate adaptation, migration, urban change, conservation, and environmental governance.
 
 ## Climate adaptation, migration & urban futures
-We study how climate change may alter where people live, how cities grow, and what new pressures migration may place on housing, infrastructure, environmental quality, and equity. Our work combines land-change modeling, demographic scenarios, climate information, and stakeholder engagement.
+
+**How will climate-related migration reshape cities, land use, infrastructure, environmental quality, and inequality?**
+
+We combine land-change modeling, demographic scenarios, climate information, and stakeholder engagement to examine how population movement may alter urban systems. Current work spans the North American Great Lakes and the Lake Victoria Basin, with particular attention to housing, infrastructure, environmental exposure, and adaptation planning.
 
 ## Geospatial artificial intelligence
-Our research uses computer vision, vision-language models, remote sensing, and spatial machine learning to extract actionable information from large image and spatial datasets. Current applications include residential property conditions and blight in Detroit, wildlife and conservation communication, and species-interaction inference.
+
+**How can AI extract meaningful and responsible information from large spatial and visual datasets?**
+
+Our work develops and evaluates computer vision, vision-language models, remote sensing, and spatial machine learning for environmental and urban applications. Current research includes residential property conditions and blight in Detroit, landscape perception, wildlife and conservation communication, and large-scale ecological inference.
 
 ## Participatory GIS & decision support
-We develop participatory mapping systems that enable residents and practitioners to identify risks, priorities, preferences, and tradeoffs. PIVOT and related tools link these inputs with spatial models so that local knowledge is not merely collected but becomes part of scenario analysis and planning.
 
-## Flood resilience & climate knowledge
-Through GLISA and CHIRRP/PUMP-COR, we examine how climate, hydrologic, and community knowledge can be brought together to support flood planning. This includes work in Benton Harbor, Milwaukee, Detroit, and other Great Lakes communities.
+**How can local knowledge and community priorities become part of spatial analysis rather than remain separate from it?**
 
-## Human–environment relationships
-We use social media, surveys, landscape visualization, and spatial analysis to understand how people perceive and value nature. This work spans cultural ecosystem services, conservation, recreation, urban forests, and the ways digital media shapes environmental engagement.
+We develop participatory mapping systems that allow residents and practitioners to identify risks, preferences, priorities, and tradeoffs. PIVOT and related platforms connect these inputs with spatial models, enabling participatory data to directly inform scenario analysis and planning.
+
+## Flood resilience & actionable climate knowledge
+
+**How can climate, hydrologic, and community knowledge be integrated to support more equitable flood planning?**
+
+Through GLISA and CHIRRP/PUMP-COR, we study the production and use of actionable climate knowledge in Great Lakes communities. This work links climate science, hydrologic modeling, participatory GIS, and co-production in places including Benton Harbor, Milwaukee, Detroit, and other regional cities.
+
+## Landscape perception, conservation & human–environment relationships
+
+**How do people perceive, value, and interact with landscapes, and how can those relationships inform conservation and planning?**
+
+We use social media, surveys, landscape visualization, spatial analysis, and ecological data to study cultural ecosystem services, recreation, urban forests, wildlife engagement, and environmental perception. This research connects human experience with landscape and conservation outcomes.
 
 ## Methods
-Our work commonly draws on **GIS · spatial statistics · R · Python · remote sensing · machine learning · large language models · agent-based and cellular-automata modeling · social media analytics · street-level imagery · participatory GIS · interactive visualization · Shiny/Leaflet · qualitative and mixed methods**.
+
+Our work commonly draws on **GIS · spatial statistics · R · Python · remote sensing · machine learning · computer vision · large language models · agent-based and cellular-automata modeling · social media analytics · street-level imagery · participatory GIS · interactive visualization · Shiny/Leaflet · qualitative and mixed methods**.

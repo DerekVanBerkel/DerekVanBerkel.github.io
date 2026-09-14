@@ -6,7 +6,7 @@ description: "Van Berkel Lab people and alumni"
 # People
 
 ## Director
-<div class="card-grid"><div class="person-card" style="grid-column: span 12;"><h3>Derek Van Berkel, PhD</h3><div class="person-role">Associate Professor · University of Michigan SEAS</div><p>Derek is a geographer and geospatial data scientist whose research examines climate adaptation and migration, urban and landscape change, participatory mapping, conservation, and environmental decision-making. He is Principal Investigator of GLISA, CLARS, and CHIRRP/PUMP-COR.</p><p>In 2026, he is a <strong>North America Visiting Fellow at the University of Helsinki</strong>, hosted by Prof. Enrico Di Minin.</p><p class="person-meta">dbvanber@umich.edu</p></div></div>
+<div class="card-grid"><div class="person-card director-card" style="grid-column: span 12;"><img class="person-photo" src="https://www.pivot-model.com/static/img/avatars/derek.jpg" alt="Derek Van Berkel"><div><h3>Derek Van Berkel, PhD</h3><div class="person-role">Associate Professor · University of Michigan SEAS</div><p>Derek is a geographer and geospatial data scientist whose research examines climate adaptation and migration, urban and landscape change, participatory mapping, conservation, and environmental decision-making. He is Principal Investigator of GLISA, CLARS, and CHIRRP/PUMP-COR.</p><p>In 2026, he is a <strong>North America Visiting Fellow at the University of Helsinki</strong>, hosted by Prof. Enrico Di Minin.</p><p class="person-meta">dbvanber@umich.edu</p></div></div></div>
 
 ## Current team
 <div class="card-grid">

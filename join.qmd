@@ -1,9 +1,8 @@
 ---
 title: "Join the Lab"
-description: "Prospective students and collaborators"
+description: "Opportunities for students and collaborators."
 ---
 
-# Join the Lab
 The Van Berkel Lab works with students and collaborators interested in **geospatial data science, climate adaptation, participatory GIS, spatial AI, urban change, conservation, and environmental communication**.
 
 ## Prospective master's students

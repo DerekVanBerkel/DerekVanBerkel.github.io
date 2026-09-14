@@ -26,8 +26,8 @@ description: "Researchers and collaborators working across our projects."
 
 ## Recent PhD graduates
 <div class="card-grid">
-<div class="person-card"><h3>David Grace, PhD</h3><div class="person-role">PhD graduate · 2026</div><p>Doctoral research on how values, beliefs, religion, and institutions shape sustainability outcomes and forest decision-making.</p></div>
-<div class="person-card"><h3>Devin Gill, PhD</h3><div class="person-role">PhD graduate · 2026</div><p>Doctoral research on actionable climate knowledge, equity, co-production, and the scaling of community engagement in climate adaptation.</p><p class="person-meta">Co-advised with Maria Carmen Lemos</p></div>
+<div class="person-card"><img class="person-photo" src="/images/people/david-grace.jpg" alt="David Grace"><h3>David Grace, PhD</h3><div class="person-role">PhD graduate · 2026</div><p>Doctoral research on how values, beliefs, religion, and institutions shape sustainability outcomes and forest decision-making.</p></div>
+<div class="person-card"><img class="person-photo" src="/images/people/devin-gill.jpg" alt="Devin Gill"><h3>Devin Gill, PhD</h3><div class="person-role">PhD graduate · 2026</div><p>Doctoral research on actionable climate knowledge, equity, co-production, and the scaling of community engagement in climate adaptation.</p><p class="person-meta">Co-advised with Maria Carmen Lemos</p></div>
 </div>
 
 ## Alumni

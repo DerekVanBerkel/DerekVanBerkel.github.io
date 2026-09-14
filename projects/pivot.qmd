@@ -1,0 +1,26 @@
+---
+title: "PIVOT"
+description: "Participatory GIS and scenario planning for environmental decision-making."
+---
+
+<div class="page-intro">PIVOT is a modular web-based platform for mapping local knowledge, identifying priorities, comparing scenarios, and linking community input with environmental and urban models.</div>
+
+## Research focus
+
+PIVOT is designed around a central question: how can **community knowledge and preferences** be incorporated into environmental planning in a way that is transparent, spatially explicit, and useful for decision-makers?
+
+The platform supports participatory mapping, comparison across places and scenarios, and integration with modeled environmental information.
+
+## Applications
+
+PIVOT has been developed for work on flood resilience, climate adaptation, urban planning, and related environmental decision-support applications in Great Lakes communities and East Africa.
+
+## Methods & infrastructure
+
+Participatory GIS · Shiny and Leaflet · spatial databases · scenario planning · geovisualization · model integration
+
+## Links
+
+[PIVOT website](https://www.pivot-model.com/) · [GLISA PIVOT page](https://glisa.umich.edu/project/pivot/)
+
+[← Back to projects](/projects.html)

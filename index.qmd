@@ -3,59 +3,63 @@ title: "Van Berkel Lab"
 page-layout: full
 ---
 
-::: {.hero}
+<div class="editorial-hero">
+<div class="editorial-hero-copy">
 <div class="eyebrow">University of Michigan · School for Environment and Sustainability</div>
-
-# Geospatial Data Science & Environmental Decision-Making
-
-<div class="lead">
-We study how climate change, migration, urbanization, and environmental change reshape landscapes and communities. Our research combines spatial modeling, GeoAI, remote sensing, participatory GIS, and visualization to understand these processes and support environmental decision-making.
-</div>
-
+<h1>Geospatial data science for environmental change and decision-making.</h1>
+<div class="lead">We study how climate change, migration, urbanization, and environmental change reshape landscapes and communities. Our work combines spatial modeling, GeoAI, remote sensing, participatory GIS, and visualization to understand these processes and support better environmental decisions.</div>
 <div class="hero-actions">
-<a class="primary" href="/research.html">Research</a>
+<a class="primary" href="/research.html">Explore our research</a>
 <a class="secondary" href="/publications.html">Publications</a>
 <a class="secondary" href="/people.html">People</a>
 </div>
-:::
+</div>
+<div class="editorial-hero-media">
+<img src="https://raw.githubusercontent.com/DerekVanBerkel/CLARS-Climate-Migration-Tutorial/main/docs/images/Lake_Victoria_sunset_in_Mwanza_Tanzania.jpg" alt="Lake Victoria at sunset in Mwanza, Tanzania">
+<div class="hero-caption">Lake Victoria Basin · climate migration, urban change, and knowledge exchange</div>
+</div>
+</div>
 
 ::: {.content-block}
 <div class="section-kicker">Research agenda</div>
 
-## Core research themes {.section-title}
+## Questions that connect our work {.section-title}
 
-<div class="card-grid">
-<div class="topic-card"><h3>Climate adaptation, migration & urban change</h3><p>How will climate-related migration reshape cities, land use, infrastructure, environmental quality, and inequality?</p><span class="tag">climate adaptation</span><span class="tag">migration</span><span class="tag">urban futures</span></div>
-<div class="topic-card"><h3>Geospatial AI & spatial data science</h3><p>How can AI and large spatial datasets produce meaningful, scalable, and responsible information about environmental and urban conditions?</p><span class="tag">GeoAI</span><span class="tag">computer vision</span><span class="tag">remote sensing</span></div>
-<div class="topic-card"><h3>Participatory GIS & environmental decision-making</h3><p>How can local knowledge, community priorities, and environmental models be integrated into transparent planning and scenario analysis?</p><span class="tag">PPGIS</span><span class="tag">PIVOT</span><span class="tag">co-production</span></div>
-<div class="topic-card"><h3>Landscape perception, conservation & human–environment relationships</h3><p>How do people perceive, value, and interact with landscapes, and how can those relationships inform conservation and planning?</p><span class="tag">conservation</span><span class="tag">social media</span><span class="tag">landscape change</span></div>
+<div class="research-lines">
+<div class="research-line"><div class="research-index">01</div><h3>Climate adaptation, migration & urban futures</h3><p>How will climate-related migration reshape cities, land use, infrastructure, environmental quality, and inequality?</p></div>
+<div class="research-line"><div class="research-index">02</div><h3>Geospatial AI & spatial data science</h3><p>How can AI and large spatial datasets produce meaningful, scalable, and responsible information about environmental and urban conditions?</p></div>
+<div class="research-line"><div class="research-index">03</div><h3>Participatory GIS & environmental decision-making</h3><p>How can local knowledge, community priorities, and environmental models be integrated into transparent planning and scenario analysis?</p></div>
+<div class="research-line"><div class="research-index">04</div><h3>Landscape perception, conservation & human–environment relationships</h3><p>How do people perceive, value, and interact with landscapes, and how can those relationships inform conservation and planning?</p></div>
 </div>
 
-<div class="section-kicker" style="margin-top:3rem;">Selected research</div>
+<div class="section-kicker">Selected projects</div>
 
 ## Current programs and platforms
 
-**[GLISA](https://glisa.umich.edu/) — Great Lakes climate adaptation.** Research and engagement connecting climate science with communities and decision-makers across the Great Lakes.
-
-**[CLARS](https://www.clarsproject.com/) — Climate migration across lake regions.** Comparative research on climate-related migration, urban change, and knowledge exchange in the Lake Victoria Basin and North American Great Lakes.
-
-**[PIVOT](https://www.pivot-model.com/) / [CHIRRP / PUMP-COR](https://glisa.umich.edu/project/coast-to-coast-using-scenario-planning-to-build-resilience-to-compound-flooding-in-the-southeast-and-great-lakes-regions/).** Participatory mapping, flood resilience, and scenario-planning tools that link community knowledge with environmental models.
+<div class="card-grid project-grid">
+<div class="project-card"><img class="project-image" src="https://raw.githubusercontent.com/DerekVanBerkel/CLARS-Climate-Migration-Tutorial/main/docs/images/Lake_Victoria_sunset_in_Mwanza_Tanzania.jpg" alt="Lake Victoria"><div class="project-card-body"><div class="project-meta">Climate migration</div><h3><a href="/projects/clars.html">CLARS</a></h3><p>Comparative research on climate-related migration, urban change, and knowledge exchange across the Lake Victoria Basin and North American Great Lakes.</p><div class="project-links"><a href="/projects/clars.html">Explore project →</a></div></div></div>
+<div class="project-card"><img class="project-image" src="https://raw.githubusercontent.com/GLISA-umich/PUMP-COR/main/images/milwaukee.jpg" alt="Milwaukee and Lake Michigan"><div class="project-card-body"><div class="project-meta">Flood resilience</div><h3><a href="/projects/pump-cor.html">CHIRRP / PUMP-COR</a></h3><p>Community-centered flood planning that links climate and hydrologic modeling with participatory GIS and scenario planning.</p><div class="project-links"><a href="/projects/pump-cor.html">Explore project →</a></div></div></div>
+<div class="project-card"><img class="project-image" src="images/projects/pivot.svg" alt="Participatory mapping illustration"><div class="project-card-body"><div class="project-meta">Participatory GIS</div><h3><a href="/projects/pivot.html">PIVOT</a></h3><p>A modular platform for mapping local knowledge, comparing priorities, and connecting community input with environmental and urban models.</p><div class="project-links"><a href="/projects/pivot.html">Explore project →</a></div></div></div>
+<div class="project-card"><img class="project-image" src="images/projects/v2vai.svg" alt="Urban imagery and computer vision illustration"><div class="project-card-body"><div class="project-meta">Geospatial AI</div><h3><a href="/projects/v2v-ai.html">V2V-AI</a></h3><p>Research with City of Detroit partners on scalable assessment of residential conditions using street-level imagery and vision-language models.</p><div class="project-links"><a href="/projects/v2v-ai.html">Explore project →</a></div></div></div>
+</div>
 
 [View all projects →](/projects.html){.btn .btn-outline-primary}
 
-<div class="section-kicker" style="margin-top:3rem;">Scholarship</div>
+<div class="band">
+<div class="section-kicker">Scholarship</div>
 
 ## Recent publications
 
-**Van Berkel, D. et al. (2026).** *YouTube content on wildlife engages audiences but rarely drives meaningful conservation action.* **Communications Sustainability** 1, 26.
+<div class="publication-list">
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">YouTube content on wildlife engages audiences but rarely drives meaningful conservation action</div><div class="publication-authors">Van Berkel, D. et al.</div><div class="publication-venue"><em>Communications Sustainability</em> 1, 26.</div></div></div>
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">Exploring climate-induced migration impacts on urban growth</div><div class="publication-authors">Estabrook, T., Van Berkel, D., Jorns, J., & Lemos, M.C.</div><div class="publication-venue"><em>Computers, Environment and Urban Systems</em> 123, 102368.</div></div></div>
+<div class="publication-item"><div class="publication-year">2026</div><div><div class="publication-title">Political ideology and scientific communication shape human perceptions of pollen seasons</div><div class="publication-authors">Song, Y., Millard-Ball, A., Fox, N., Van Berkel, D., Agrawal, A., & Zhu, K.</div><div class="publication-venue"><em>PNAS Nexus</em> 5(1), pgaf386.</div><div class="publication-links"><a href="https://doi.org/10.1093/pnasnexus/pgaf386">DOI</a></div></div></div>
+</div>
 
-**Estabrook, T., Van Berkel, D., Jorns, J., & Lemos, M.C. (2026).** *Exploring climate-induced migration impacts on urban growth.* **Computers, Environment and Urban Systems** 123, 102368.
+[View all selected publications →](/publications.html){.btn .btn-outline-primary}
+</div>
 
-**Song, Y., Millard-Ball, A., Fox, N., Van Berkel, D., Agrawal, A., & Zhu, K. (2026).** *Political ideology and scientific communication shape human perceptions of pollen seasons.* **PNAS Nexus** 5(1), pgaf386.
-
-[View publications →](/publications.html){.btn .btn-outline-primary}
-
-<div class="section-kicker" style="margin-top:3rem;">Lab</div>
+<div class="section-kicker">Lab</div>
 
 ## People & updates
 

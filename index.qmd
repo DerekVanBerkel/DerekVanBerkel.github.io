@@ -35,11 +35,11 @@ We study how climate change, migration, urbanization, and environmental change r
 
 ## Current programs and platforms
 
-**GLISA — Great Lakes climate adaptation.** Research and engagement connecting climate science with communities and decision-makers across the Great Lakes.
+**[GLISA](https://glisa.umich.edu/) — Great Lakes climate adaptation.** Research and engagement connecting climate science with communities and decision-makers across the Great Lakes.
 
-**CLARS — Climate migration across lake regions.** Comparative research on climate-related migration, urban change, and knowledge exchange in the Lake Victoria Basin and North American Great Lakes.
+**[CLARS](https://www.clarsproject.com/) — Climate migration across lake regions.** Comparative research on climate-related migration, urban change, and knowledge exchange in the Lake Victoria Basin and North American Great Lakes.
 
-**PIVOT / CHIRRP / PUMP-COR.** Participatory mapping, flood resilience, and scenario-planning tools that link community knowledge with environmental models.
+**[PIVOT](https://www.pivot-model.com/) / [CHIRRP / PUMP-COR](https://glisa.umich.edu/project/coast-to-coast-using-scenario-planning-to-build-resilience-to-compound-flooding-in-the-southeast-and-great-lakes-regions/).** Participatory mapping, flood resilience, and scenario-planning tools that link community knowledge with environmental models.
 
 [View all projects →](/projects.html){.btn .btn-outline-primary}
 

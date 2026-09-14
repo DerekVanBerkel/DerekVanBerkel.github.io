@@ -4,67 +4,67 @@ page-layout: full
 ---
 
 ::: {.hero}
-<div class="eyebrow">University of Michigan · Geospatial Data Sciences</div>
+<div class="eyebrow">University of Michigan · School for Environment and Sustainability</div>
 
-# Spatial intelligence for a changing world
+# Geospatial Data Science & Environmental Decision-Making
 
 <div class="lead">
-We combine geospatial data science, artificial intelligence, participatory mapping, and environmental modeling to understand climate risk and landscape change — and to turn complex data into tools communities can use.
+We study how climate change, migration, urbanization, and environmental change reshape landscapes and communities. Our research combines spatial modeling, GeoAI, remote sensing, participatory GIS, and visualization to understand these processes and support environmental decision-making.
 </div>
 
 <div class="hero-actions">
-<a class="primary" href="projects.html">Explore our projects</a>
-<a class="secondary" href="news/index.html">Latest news</a>
-<a class="secondary" href="join.html">Work with us</a>
+<a class="primary" href="/research.html">Research</a>
+<a class="secondary" href="/publications.html">Publications</a>
+<a class="secondary" href="/people.html">People</a>
 </div>
 :::
 
 ::: {.content-block}
-<div class="section-kicker">What we do</div>
+<div class="section-kicker">Research agenda</div>
 
-## Research built around decisions, not just data {.section-title}
-
-Our work asks how spatial data and computational methods can help people make better decisions about **climate adaptation, migration, flooding, urban change, conservation, and environmental equity**. We work across the Great Lakes region, East Africa, and other rapidly changing landscapes, often in direct partnership with communities, planners, and public agencies.
+## Core research themes {.section-title}
 
 <div class="card-grid">
-<div class="topic-card"><h3>Climate adaptation & migration</h3><p>We study how climate hazards and migration may reshape cities and regions, and how communities can prepare before those changes arrive.</p><span class="tag">GLISA</span><span class="tag">CLARS</span><span class="tag">urban growth</span></div>
-<div class="topic-card"><h3>Geospatial AI & urban analytics</h3><p>We use vision-language models, street-level imagery, remote sensing, and spatial machine learning to measure conditions that are difficult to observe at scale.</p><span class="tag">Detroit</span><span class="tag">VLMs</span><span class="tag">UrbanWORM</span></div>
-<div class="topic-card"><h3>Participatory mapping & decision support</h3><p>We build interactive tools that combine local knowledge, community priorities, and environmental models in transparent planning workflows.</p><span class="tag">PIVOT</span><span class="tag">PPGIS</span><span class="tag">co-production</span></div>
-<div class="topic-card"><h3>Landscape & conservation science</h3><p>We investigate how people perceive, value, and interact with landscapes using social media, spatial modeling, ecological data, and conservation science.</p><span class="tag">human–nature relationships</span><span class="tag">land change</span></div>
+<div class="topic-card"><h3>Climate adaptation, migration & urban change</h3><p>How will climate-related migration reshape cities, land use, infrastructure, environmental quality, and inequality?</p><span class="tag">climate adaptation</span><span class="tag">migration</span><span class="tag">urban futures</span></div>
+<div class="topic-card"><h3>Geospatial AI & spatial data science</h3><p>How can AI and large spatial datasets produce meaningful, scalable, and responsible information about environmental and urban conditions?</p><span class="tag">GeoAI</span><span class="tag">computer vision</span><span class="tag">remote sensing</span></div>
+<div class="topic-card"><h3>Participatory GIS & environmental decision-making</h3><p>How can local knowledge, community priorities, and environmental models be integrated into transparent planning and scenario analysis?</p><span class="tag">PPGIS</span><span class="tag">PIVOT</span><span class="tag">co-production</span></div>
+<div class="topic-card"><h3>Landscape perception, conservation & human–environment relationships</h3><p>How do people perceive, value, and interact with landscapes, and how can those relationships inform conservation and planning?</p><span class="tag">conservation</span><span class="tag">social media</span><span class="tag">landscape change</span></div>
 </div>
 
-::: {.band}
-<div class="section-kicker">Current leadership</div>
+<div class="section-kicker" style="margin-top:3rem;">Selected research</div>
 
-## Major research programs
+## Current programs and platforms
 
-<div class="card-grid">
-<div class="stat-card"><strong>GLISA</strong><br><span class="person-meta">Principal Investigator</span></div>
-<div class="stat-card"><strong>CLARS</strong><br><span class="person-meta">Principal Investigator</span></div>
-<div class="stat-card"><strong>CHIRRP / PUMP-COR</strong><br><span class="person-meta">Principal Investigator</span></div>
-<div class="stat-card"><strong>PIVOT</strong><br><span class="person-meta">Decision-support platform</span></div>
-</div>
-:::
+**GLISA — Great Lakes climate adaptation.** Research and engagement connecting climate science with communities and decision-makers across the Great Lakes.
 
-<div class="section-kicker">Featured</div>
+**CLARS — Climate migration across lake regions.** Comparative research on climate-related migration, urban change, and knowledge exchange in the Lake Victoria Basin and North American Great Lakes.
 
-## Current directions
+**PIVOT / CHIRRP / PUMP-COR.** Participatory mapping, flood resilience, and scenario-planning tools that link community knowledge with environmental models.
 
-**Great Lakes climate adaptation.** As Principal Investigator of GLISA, Derek Van Berkel leads research and engagement connecting climate science with communities and decision-makers across the Great Lakes.
+[View all projects →](/projects.html){.btn .btn-outline-primary}
 
-**Climate migration across two lake regions.** CLARS links research in the Lake Victoria Basin and North American Great Lakes to understand migration, urban change, and climate knowledge exchange.
+<div class="section-kicker" style="margin-top:3rem;">Scholarship</div>
 
-**AI for urban decision-making.** Work with the City of Detroit explores scalable analysis of residential property conditions using street-level imagery, vision-language models, and participatory planning tools.
+## Recent publications
 
-**Flood resilience through co-production.** CHIRRP/PUMP-COR and PIVOT integrate hydrologic information, participatory GIS, and scenario planning to support community flood decisions.
+**Van Berkel, D. et al. (2026).** *YouTube content on wildlife engages audiences but rarely drives meaningful conservation action.* **Communications Sustainability** 1, 26.
 
-[See all projects →](projects.qmd){.btn .btn-outline-primary}
+**Estabrook, T., Van Berkel, D., Jorns, J., & Lemos, M.C. (2026).** *Exploring climate-induced migration impacts on urban growth.* **Computers, Environment and Urban Systems** 123, 102368.
 
-<div class="section-kicker" style="margin-top:3rem;">News</div>
+**Song, Y., Millard-Ball, A., Fox, N., Van Berkel, D., Agrawal, A., & Zhu, K. (2026).** *Political ideology and scientific communication shape human perceptions of pollen seasons.* **PNAS Nexus** 5(1), pgaf386.
 
-## Recent updates
+[View publications →](/publications.html){.btn .btn-outline-primary}
 
-The News page is generated automatically from individual Markdown posts. Adding a new item does not require editing this homepage.
+<div class="section-kicker" style="margin-top:3rem;">Lab</div>
 
-[Read the latest news →](news/index.qmd)
+## People & updates
+
+The lab brings together researchers working across geospatial data science, climate adaptation, urban analytics, conservation, and participatory decision support.
+
+[Meet the team →](/people.html) · [Latest news →](/news/index.html)
+
+<div class="section-kicker" style="margin-top:3rem;">Affiliation</div>
+
+**University of Michigan**  
+School for Environment and Sustainability · Geospatial Data Science
 :::

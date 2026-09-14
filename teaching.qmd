@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+description: "Courses and teaching"
+---
+
+# Teaching
+Teaching in the Van Berkel Lab emphasizes practical geospatial skills, critical interpretation of data, visual communication, and reproducible workflows.
+
+## EAS 548 / 648 — Geovisualization
+Introductory and advanced geovisualization courses covering spatial data workflows, map design, interactive visualization, and reproducible geospatial analysis. Tools include R/RStudio, QGIS, `sf`, `ggplot2`, `tmap`, Leaflet/Shiny, Plotly, GRASS GIS, Kepler.gl, Git, and GitHub.
+
+## ENVIRON 427 — Communicating Sustainability in the Digital Age
+A course focused on how sustainability information is produced, represented, communicated, and interpreted in digital environments, with hands-on work in contemporary data and visualization tools.
+
+## Teaching philosophy
+Students learn most effectively when technical methods are tied to consequential questions. Courses therefore pair computational skills with design choices, uncertainty, ethics, audience, and the practical problem of turning analysis into understandable evidence.

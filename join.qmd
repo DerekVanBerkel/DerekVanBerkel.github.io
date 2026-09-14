@@ -1,17 +1,19 @@
 ---
 title: "Join the Lab"
-description: "Opportunities for students and collaborators."
+description: "Information for prospective students and collaborators."
 ---
 
-The Van Berkel Lab works with students and collaborators interested in **geospatial data science, climate adaptation, participatory GIS, spatial AI, urban change, conservation, and environmental communication**.
+The Van Berkel Lab works at the intersection of **geospatial data science, climate adaptation, participatory GIS, GeoAI, urban change, conservation, and environmental decision-making**.
 
-## Prospective master's students
-Master's students with strong GIS, programming, visualization, remote sensing, or spatial-analysis interests are welcome to get in touch. A concise message describing your interests, relevant skills, and the project areas that interest you is most useful.
+::: {.callout-note}
+## Sabbatical and student advising
+Derek Van Berkel is on sabbatical in 2026 and is **not currently considering or accepting new graduate students**. Prospective master's and PhD students should check this page again after the sabbatical period for updated information about advising opportunities.
+:::
 
-## PhD inquiries
-PhD advising depends on project fit and available funding. Please review the current research and projects pages before contacting the lab, and include a CV and a short description of the research questions you hope to pursue.
+## Prospective students
+Because of the current sabbatical, the lab is not reviewing inquiries from prospective master's or PhD students at this time. Future opportunities will depend on research fit, project needs, and available funding.
 
 ## Collaborators & community partners
-Many of our projects are co-developed with public agencies, community organizations, climate practitioners, and researchers from other disciplines. We welcome conversations around applied spatial decision-support problems where collaboration can add real value.
+We continue to welcome research collaborations with public agencies, community organizations, climate practitioners, and researchers working on applied geospatial and environmental decision-support questions.
 
 **Contact:** [dbvanber@umich.edu](mailto:dbvanber@umich.edu)

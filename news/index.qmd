@@ -1,6 +1,6 @@
 ---
 title: "News"
-description: "Updates from the Van Berkel Lab"
+description: "Updates from the lab."
 listing:
   contents: posts
   sort: "date desc"
@@ -12,5 +12,4 @@ listing:
 page-layout: full
 ---
 
-# News
 Short updates on publications, people, projects, fieldwork, talks, and lab milestones.

@@ -1,0 +1,24 @@
+---
+title: "V2V-AI"
+description: "Geospatial AI for assessing residential conditions in Detroit."
+---
+
+<div class="page-intro">V2V-AI explores how street-level imagery, geospatial data, computer vision, and vision-language models can support scalable assessment of residential conditions in Detroit.</div>
+
+## Research focus
+
+The project asks how AI-derived information about the built environment can complement existing urban data while remaining transparent, useful, and responsible. Current work includes the **UrbanWORM** Python package and vision-language modeling of residential property and blight conditions.
+
+## Partnership
+
+The work is being developed with City of Detroit partners and is oriented toward practical urban analysis and decision-making rather than automated classification as an end in itself.
+
+## Methods
+
+Street-level imagery · GeoAI · computer vision · vision-language models · spatial data integration · responsible AI
+
+## Related output
+
+Yang, X., Tian, A., Van Berkel, D., Qiang, X., & Lindquist, M. (2026). *Can Urban Blight Be Accessed with Vision-language Models: A Case Study in Detroit.* [arXiv:2608.01753](https://arxiv.org/abs/2608.01753)
+
+[← Back to projects](/projects.html)

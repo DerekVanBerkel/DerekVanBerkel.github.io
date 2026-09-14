@@ -1,9 +1,7 @@
 ---
 title: "Projects"
-description: "Current research programs and platforms"
+description: "Current research programs, partnerships, and decision-support platforms."
 ---
-
-# Projects
 
 <div class="card-grid project-grid">
 <div class="project-card"><img class="project-image" src="images/projects/glisa.svg" alt="Illustration of Great Lakes climate adaptation"><div class="project-card-body"><h3>GLISA — Great Lakes climate adaptation</h3><p>GLISA connects climate science with communities and decision-makers across the Great Lakes. Current work emphasizes actionable climate knowledge, flood resilience, climate migration, and tools that support local adaptation decisions.</p><p><a href="https://glisa.umich.edu/">Visit GLISA →</a></p></div></div>

@@ -1,0 +1,70 @@
+---
+title: "Van Berkel Lab"
+page-layout: full
+---
+
+::: {.hero}
+<div class="eyebrow">University of Michigan · Geospatial Data Sciences</div>
+
+# Spatial intelligence for a changing world
+
+<div class="lead">
+We combine geospatial data science, artificial intelligence, participatory mapping, and environmental modeling to understand climate risk and landscape change — and to turn complex data into tools communities can use.
+</div>
+
+<div class="hero-actions">
+<a class="primary" href="projects.html">Explore our projects</a>
+<a class="secondary" href="news/index.html">Latest news</a>
+<a class="secondary" href="join.html">Work with us</a>
+</div>
+:::
+
+::: {.content-block}
+<div class="section-kicker">What we do</div>
+
+## Research built around decisions, not just data {.section-title}
+
+Our work asks how spatial data and computational methods can help people make better decisions about **climate adaptation, migration, flooding, urban change, conservation, and environmental equity**. We work across the Great Lakes region, East Africa, and other rapidly changing landscapes, often in direct partnership with communities, planners, and public agencies.
+
+<div class="card-grid">
+<div class="topic-card"><h3>Climate adaptation & migration</h3><p>We study how climate hazards and migration may reshape cities and regions, and how communities can prepare before those changes arrive.</p><span class="tag">GLISA</span><span class="tag">CLARS</span><span class="tag">urban growth</span></div>
+<div class="topic-card"><h3>Geospatial AI & urban analytics</h3><p>We use vision-language models, street-level imagery, remote sensing, and spatial machine learning to measure conditions that are difficult to observe at scale.</p><span class="tag">Detroit</span><span class="tag">VLMs</span><span class="tag">UrbanWORM</span></div>
+<div class="topic-card"><h3>Participatory mapping & decision support</h3><p>We build interactive tools that combine local knowledge, community priorities, and environmental models in transparent planning workflows.</p><span class="tag">PIVOT</span><span class="tag">PPGIS</span><span class="tag">co-production</span></div>
+<div class="topic-card"><h3>Landscape & conservation science</h3><p>We investigate how people perceive, value, and interact with landscapes using social media, spatial modeling, ecological data, and conservation science.</p><span class="tag">human–nature relationships</span><span class="tag">land change</span></div>
+</div>
+
+::: {.band}
+<div class="section-kicker">Current leadership</div>
+
+## Major research programs
+
+<div class="card-grid">
+<div class="stat-card"><strong>GLISA</strong><br><span class="person-meta">Principal Investigator</span></div>
+<div class="stat-card"><strong>CLARS</strong><br><span class="person-meta">Principal Investigator</span></div>
+<div class="stat-card"><strong>CHIRRP / PUMP-COR</strong><br><span class="person-meta">Principal Investigator</span></div>
+<div class="stat-card"><strong>PIVOT</strong><br><span class="person-meta">Decision-support platform</span></div>
+</div>
+:::
+
+<div class="section-kicker">Featured</div>
+
+## Current directions
+
+**Great Lakes climate adaptation.** As Principal Investigator of GLISA, Derek Van Berkel leads research and engagement connecting climate science with communities and decision-makers across the Great Lakes.
+
+**Climate migration across two lake regions.** CLARS links research in the Lake Victoria Basin and North American Great Lakes to understand migration, urban change, and climate knowledge exchange.
+
+**AI for urban decision-making.** Work with the City of Detroit explores scalable analysis of residential property conditions using street-level imagery, vision-language models, and participatory planning tools.
+
+**Flood resilience through co-production.** CHIRRP/PUMP-COR and PIVOT integrate hydrologic information, participatory GIS, and scenario planning to support community flood decisions.
+
+[See all projects →](projects.qmd){.btn .btn-outline-primary}
+
+<div class="section-kicker" style="margin-top:3rem;">News</div>
+
+## Recent updates
+
+The News page is generated automatically from individual Markdown posts. Adding a new item does not require editing this homepage.
+
+[Read the latest news →](news/index.qmd)
+:::
